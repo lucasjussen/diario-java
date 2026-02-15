@@ -281,7 +281,8 @@ System.out.println(resultado);
 
 
 Hoje eu vi apenas essa aula, estava morto de sono mas mesmo assim não desisti.. vi uma informação no twitter e queria deixar registrado aqui:
-<img width="590" height="1280" alt="Repeticao" src="https://github.com/user-attachments/assets/bba6f537-1de7-414a-ac63-480a7d27d338" />
+<img width="430" height="709" alt="Repeticao" src="https://github.com/user-attachments/assets/3d4f2a0c-2e73-4401-8904-fdc1c943b376" />
+
 
 
 
