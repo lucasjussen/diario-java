@@ -1,48 +1,37 @@
-# 📘 Diário de Estudos - Java
+# 📘 Diário de Estudos – Java
 
 Repositório dedicado ao registro da minha evolução no aprendizado de Java.
 
 Atualmente estudando:
-- Maratona Java - DevDojo (Virado no Jiraya)
+- 🎯 Maratona Java – DevDojo (Virado no Jiraya)
 
 ---
 
-## 🎯 Objetivo
-Desenvolver lógica de programação sólida e fundamentos fortes em Java.
+## 🚀 Objetivo
+
+Construir uma base sólida em lógica de programação e fundamentos de Java, registrando evolução prática e teórica ao longo do processo.
 
 ---
 
-## 📅 Janeiro 2026
+## 📂 Estrutura do Repositório
 
-### ✅ Aula 01 a 05
-- Compilação manual
-- Estrutura básica
-- Introdução
+As anotações estão organizadas por mês:
 
-### ✅ Aula 08
-- Packages
-- Estrutura hierárquica
-- Organização de código
+- 📄 `janeiro-2026.md`
+- 📄 `fevereiro-2026.md`
 
-### ✅ Aula 10 a 14
-- Tipos primitivos
-- Exercícios de impressão
-- Boas práticas de nome de variável
-
-### ✅ Aula 16 a 23
-- Operadores relacionais
-- Operadores lógicos (&& e ||)
-- IF / ELSE
-- Operador ternário
-- Tabela verdade
+Cada arquivo contém:
+- Resumo das aulas estudadas
+- Exemplos de código
+- Exercícios realizados
+- Reflexões pessoais
+- Dificuldades encontradas
 
 ---
 
-## 💭 Reflexão
+## 🧠 Compromisso
 
-Disciplina > Motivação  
-Mesmo cansado, continuo estudando.
+Este repositório é parte do meu processo de aprendizado contínuo.
 
----
-
-🚀 Evolução constante.
+> Disciplina > Motivação  
+> Evolução constante 🚀
