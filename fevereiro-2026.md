@@ -421,6 +421,40 @@ String;<br>
 enum;<br>
 
 
+# 📅17-02
+
+### 📌 Aula 26 - Estruturas Condicionais pt 07 - Switch
+
+Hoje finalizei mais uma etapa sobre a estrutura switch em Java.
+
+Foi uma aula muito importante para consolidar meu entendimento sobre estruturas condicionais. Realizei um exercício proposto no curso DevDojo (disponível no repositório) e passei boa parte da tarde testando e “brincando” com o funcionamento do switch.
+
+Durante os testes, explorei:
+
+Como o switch se comporta com diferentes valores
+
+A importância do break
+
+O uso do default
+
+Diferença entre switch e múltiplos if/else
+
+Testes alterando valores diretamente nas cases
+
+Pequenos erros que mudam completamente o resultado
+
+Também pedi para a IA gerar exercícios progressivos para que eu pudesse resolver sozinho, evoluindo a dificuldade aos poucos. Isso me ajudou muito a fixar o conteúdo, principalmente entendendo o porquê das coisas funcionarem, e não apenas copiando código.
+
+### 🧠 Principal aprendizado do dia
+
+O switch é uma forma mais organizada e legível de trabalhar com múltiplas comparações de valores fixos, evitando vários if encadeados quando o cenário envolve escolhas diretas.
+
+Além disso, percebi que:
+
+Pequenos detalhes (como esquecer um break ou errar um cálculo dentro do case) mudam completamente o comportamento do programa.
+
+E isso faz parte do processo.
+
 
 
 
