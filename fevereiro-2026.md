@@ -348,3 +348,10 @@ System.out.println(valorFinal);
 Estudei MUITO hoje, MUITO mesmo, peguei uma boa parte de lógica e entendimento sobre if/else
 <img width="332" height="144" alt="image" src="https://github.com/user-attachments/assets/c9d82141-9221-4e59-b4bb-f07393f88a71" />
 
+
+
+# 📅16-02
+
+
+### 📌 Aula 25 - Estruturas Condicionais pt 06 - Switch
+
