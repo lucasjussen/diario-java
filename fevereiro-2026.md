@@ -355,3 +355,73 @@ Estudei MUITO hoje, MUITO mesmo, peguei uma boa parte de lógica e entendimento 
 
 ### 📌 Aula 25 - Estruturas Condicionais pt 06 - Switch
 
+(estudando de madrugada que foi o único horário que consegui).
+
+Entendi que *switch* é uma estrutura condicional usada quando queremos comparar uma variável com vários valores específicos.
+
+1️⃣ Use switch quando:
+
+Você está comparando uma única variável;<br>
+Contra valores fixos;<br>
+E existem várias possibilidades;<br>
+
+
+Exemplo clássico:
+
+````
+switch (dia) {
+    case 1:
+        System.out.println("Domingo");
+        break;
+    case 2:
+        System.out.println("Segunda");
+        break;
+}
+````
+
+3️⃣ Por que ele é melhor que vários if?
+
+Imagine isso com if:
+````
+if (dia == 1) {
+} else if (dia == 2) {
+} else if (dia == 3) {
+}
+````
+
+Funciona igual.
+
+Mas o switch:
+
+✔ Fica mais organizado<br>
+✔ Fica mais legível<br>
+✔ Mostra claramente que estamos comparando um único valor<br>
+
+🔥 Agora a parte importante
+
+Switch não substitui todos os ifs.
+
+Você NÃO pode fazer:
+
+````
+switch (idade > 18)
+````
+
+Isso não funciona.
+
+
+
+2️⃣ Switch só funciona com:
+
+int;<br>
+byte;<br>
+short;<br>
+char;<br>
+String;<br>
+enum;<br>
+
+
+
+
+
+
