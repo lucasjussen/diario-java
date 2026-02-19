@@ -455,6 +455,107 @@ Pequenos detalhes (como esquecer um break ou errar um cálculo dentro do case) m
 
 E isso faz parte do processo.
 
+# 📅18-02
+
+### 📌 Aula 27 Estruturas Condicionais e de Repetição
+
+#### 🔀 Switch
+
+O switch é uma estrutura de decisão utilizada quando queremos comparar uma única variável com múltiplos valores fixos.
+
+#### 📌 Principais pontos aprendidos:
+
+Funciona com int, char, String, enum, entre outros tipos específicos
+
+Utiliza case para definir possibilidades
+
+O break evita que a execução continue para os próximos cases
+
+O default funciona como alternativa caso nenhum caso seja atendido
+
+É mais organizado do que múltiplos if/else quando estamos lidando com valores fixos
+
+## 🧠 Principal entendimento
+
+O switch é ideal quando temos várias comparações diretas de um mesmo valor, tornando o código mais legível e organizado.
+
+#### 🔁 Estruturas de Repetição
+
+As estruturas de repetição executam um bloco de código enquanto uma condição for verdadeira.
+
+### 🔄 While
+
+Executa enquanto a condição for verdadeira.
+
+````
+int count = 0;
+while (count < 10) {
+    System.out.println(count);
+    count++;
+}
+````
+#### 📌 Pontos importantes:
+
+A condição dentro dos parênteses deve retornar boolean
+
+Se a variável de controle não for alterada, ocorre loop infinito
+
+Primeiro verifica a condição, depois executa
+
+🧠 Tradução mental
+
+Enquanto count for menor que 10 → executar o bloco.
+
+### 🔁 Do-While
+
+Executa o bloco pelo menos uma vez, mesmo que a condição seja falsa.
+
+````
+int count = 12;
+
+do {
+    System.out.println("Executa pelo menos uma vez");
+} while (count < 10);
+````
+### 📌 Diferença principal:
+
+O while testa antes de executar
+
+O do-while executa antes de testar
+
+### 🔄 For
+
+Estrutura mais utilizada quando sabemos exatamente quantas vezes queremos repetir.
+````
+for (int i = 0; i < 10; i++) {
+    System.out.println("For " + i);
+}
+````
+📌 Estrutura do for:
+for (inicialização; condição; atualização)
+
+
+Inicialização → executa uma única vez
+
+Condição → verificada a cada repetição
+
+Atualização → executada ao final de cada ciclo
+
+🧠 Tradução mental
+
+Para (começando em 0; enquanto for menor que 10; incrementando de 1 em 1) → executar o bloco.
+
+🎯 Principais aprendizados
+
+Sempre traduzir o código mentalmente
+
+Entender a ordem real de execução
+
+Evitar loops infinitos
+
+Saber quando usar switch, while, do-while ou for
+
+Pensar na legibilidade e organização do código
 
 
 
