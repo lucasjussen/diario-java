@@ -534,6 +534,10 @@ Saber quando usar *switch*, *while*, *do-while* ou *for*
 
 Pensar na legibilidade e organização do código
 
+# 📅19-02
+
+Hoje fiz apenas um pequeno exercício sobre while. Mesmo cansado e sendo um pequeno exercício, sentei na frente do pc e fiz.
+
 
 
 
